@@ -17,4 +17,6 @@ I'm a Computer Science student at Saddleback College!<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Ryan Dewey&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/RyanDewey4/RyanDewey4/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
