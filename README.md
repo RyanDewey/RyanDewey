@@ -1,7 +1,7 @@
 # Hi! I'm Ryan!
 
 # 💫 About Me:
-I'm a Computer Science student at Saddleback College!<br>
+I'm a Computer Science and Engineering student at UCLA!<br>
 
 
 ## 🌐 Socials:
