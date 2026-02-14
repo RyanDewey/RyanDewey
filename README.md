@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I'm a Computer Science and Engineering student at UCLA!<br>
+Check out my projects at my website: https://ryanjdewey.com/  
 
 
 ## 🌐 Socials:
