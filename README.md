@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I'm a Computer Science and Engineering student at UCLA!<br>
+I am interning at Amazon Devices org this Summer!<br>
 Check out my projects at my website: https://ryanjdewey.com/  
 
 
