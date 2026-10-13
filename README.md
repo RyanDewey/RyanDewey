@@ -2,7 +2,7 @@
 
 # About Me:
 I'm a Computer Science and Engineering student at UCLA!<br>
-I am interning at Amazon Devices org this Summer!<br>
+I interned at Amazon Devices last Summer!<br>
 Check out my projects at my website: https://ryanjdewey.com/  
 
 
